@@ -1,9 +1,9 @@
 [deps]
 pandas = "<2"
-numpy = "<=1.24"
-python = ">3.6, <3.10"
+numpy = "<=1.21.1"
+python = ">3.7, <3.10"
 
 [pip.deps]
 ehtim = "<=1.2.4"
 pandas = "<2"
-numpy = "<=1.24"
+numpy = "<=1.21.1"

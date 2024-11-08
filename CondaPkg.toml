@@ -1,12 +1,9 @@
 [deps]
-pandas = "1.5.3"
+pandas = "<2"
 numpy = "1.21.1"
 python = "3.9"
-scipy = "1.10.1"
 
 [pip.deps]
 ehtim = "1.2.4"
-pandas = "1.5.3"
+pandas = "<2"
 numpy = "1.21.1"
-python = "3.9"
-scipy = "1.10.1"

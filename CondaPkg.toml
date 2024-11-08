@@ -1,7 +1,7 @@
 [deps]
 pandas = "<2"
 numpy = "<=1.26"
-python = "3.9"
+python = "<3.10"
 
 [pip.deps]
 ehtim = ""

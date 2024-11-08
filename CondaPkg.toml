@@ -1,8 +1,8 @@
 [deps]
 pandas = "<2"
-numpy = "<=1.24"
-python = ">=3.6,<=3.10"
+numpy = "<=1.26"
+python = "3.9"
 
 [pip.deps]
 ehtim = ""
-numpy = "<=1.24"
+numpy = "<=1.26"
